@@ -66,7 +66,7 @@ Uma landing page moderna, elegante e totalmente responsiva para salões de belez
 
 O projeto está publicado e pode ser visualizado online:
 
-🌍 **Link de Acesso:** [Visitar Majestic Beauty Salon]()
+🌍 **Link de Acesso:** [Visitar Majestic Beauty Salon](https://majestic-llama-a32670.netlify.app/)
 
 ---
 
